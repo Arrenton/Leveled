@@ -5,3 +5,5 @@
 – [Forum Thread](https://forums.terraria.org/index.php?threads/leveled-rpg-mod-port-to-tmod-project.58728/) 
 
 This repository serves as both the place to download the releases if, for example, the mod browser doesn't work, as well as the [wiki for developers](https://github.com/Arrenton/Leveled/wiki)!
+
+You can also put issues [here](https://github.com/Arrenton/Leveled/issues)!
