@@ -7,3 +7,5 @@
 This repository serves as both the place to download the releases if, for example, the mod browser doesn't work, as well as the [wiki for developers](https://github.com/Arrenton/Leveled/wiki)!
 
 You can also put issues [here](https://github.com/Arrenton/Leveled/issues)!
+
+The code is not public and we have no intentions of making it public yet. It might happen one day, who knows.
